@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Daniel Bauer's portfolio
 
 You can use the [editor on GitHub](https://github.com/DanielBauer2004/portfolio2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
